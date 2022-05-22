@@ -11,4 +11,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: ckarthik20/badge-readme@master
-          CREDLY_USER: karthikc # optional, but default will use the same from github
+        with:
+          CREDLY_USER:  karthikc
