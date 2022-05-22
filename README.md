@@ -9,17 +9,8 @@
  - 7+ years of experience in the networking domain, both in Service Provider and Enterprise network
  - 
 
-## 👋🏼 Let's Connect!
-📥 DMs are open on LinkedIn and/or Email.
 
-[![Linkedin Badge](https://img.shields.io/badge/-karthikc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikc/)](https://www.linkedin.com/in/karthikc/)
-[![Github Badge](https://img.shields.io/badge/-karthikc-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ckarthik20)](https://github.com/ckarthik20)
-[![Gmail Badge](https://img.shields.io/badge/-karthikc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikc@gmail.com)](mailto:karthikc@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-karthikc-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@karthikc)](https://medium.com/@karthikc)
-
-
-
-## 💻 AREAS OF EXPERTISE
+## 💻 Area of Expertise
 | Type                   | Skills                                                                                                       |
 |------------------------|--------------------------------------------------------------------------------------------------------------|
 | L2 Technologies        | EtherChannel / VLAN / VTP                                                                                    |
@@ -58,3 +49,13 @@ To see all the other badges are [here](https://www.credly.com/users/karthikc/bad
 [![Palo Alto Networks Certified Network Security Engineer](https://images.credly.com/size/100x100/images/a7179299-0c6e-4327-a27d-ea5853a1ab55/pan_pcnse_digital-badge_sharing-logo-2048x2048.png)](https://www.credly.com/badges/b534045d-649b-42d9-8def-0b0201474bc1 "Palo Alto Networks Certified Network Security Engineer")
 [![Cisco Certified Network Associate](https://images.credly.com/size/100x100/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)](https://www.credly.com/badges/6f2ed529-2f28-4da4-bcdc-95c500ab9926 "Cisco Certified Network Associate")
 <!--END_SECTION:badges-->
+
+
+
+## 👋🏼 Let's Connect!
+📥 DMs are open on LinkedIn and/or Email.
+
+[![Linkedin Badge](https://img.shields.io/badge/-karthikc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikc/)](https://www.linkedin.com/in/karthikc/)
+[![Github Badge](https://img.shields.io/badge/-karthikc-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ckarthik20)](https://github.com/ckarthik20)
+[![Gmail Badge](https://img.shields.io/badge/-karthikc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikc@gmail.com)](mailto:karthikc@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-karthikc-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@karthikc)](https://medium.com/@karthikc)
