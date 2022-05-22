@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Karthik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=33AEF7&lines=Network+Engineer;Cloud+Technology+Enthusiast;IOT+hobbyist&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?color=33AEF7&lines=Network+Engineer;Cloud+Technology+Enthusiast;IoT+hobbyist&center=true&width=500&height=50">
 </p>
 
 <br>
