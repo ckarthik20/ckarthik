@@ -7,7 +7,6 @@
  - 7+ years of experience in the networking domain, both in Service Provider and Enterprise network
  - 
 
-
 ## 📚 Area of Expertise
 | Type                   | Skills                                                                                                       |
 |------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -22,8 +21,12 @@
 | Network Automation     | NETCONF / REST API / Python                                                                 |
 | Network Devices        | MX480 / MX960 / ASR 903 / ASR 920 / ASR 1000                                               |
 
+## ☁ Cloud
+<p>
+ <a href="#"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white"></a>
+</p>
 
-### 💻 Operating Systems, Software and Tools
+## 💻 Operating Systems, Software and Tools
 
 <p>
  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
@@ -42,7 +45,6 @@
  <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
     
 </p>
-
 
 
 ## 💡 Prototyping Platforms
@@ -84,5 +86,5 @@ To see all the other badges are [here](https://www.credly.com/users/karthikc/bad
 [<img alt="Twitter" src="https://img.shields.io/badge/karthikk_c-%231DA1F2.svg?&logo=twitter&logoColor=white" />](https://twitter.com/karthikk_c)
 [<img alt="Medium" src="https://img.shields.io/badge/karthikk_c-%2312100E.svg?&logo=medium&logoColor=white" />](https://medium.com/@c.karthik)
 [<img alt="Medium" src="https://img.shields.io/badge/ckarthik-0078D4?&logo=microsoft-outlook&logoColor=white" />](mailto:ckarthik@outllok.in)
-[<img alt="Linkedin" src="https://img.shields.io/badge/ckarthik-0077B5?logo=linkedin&logoColor=white" />]([https://github.com/ckarthik20](https://www.linkedin.com/in/ckarthik))
+[<img alt="Linkedin" src="https://img.shields.io/badge/ckarthik-0077B5?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ckarthik)
 
