@@ -50,8 +50,7 @@ To see all the other badges are [here](https://www.credly.com/users/karthikc/bad
 
 
 
-## 👋🏼 Let's Connect!
-📥 DMs are open on LinkedIn and/or Email.
+## 👋🏼 Social Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-karthikc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikc/)](https://www.linkedin.com/in/karthikc/)
 [![Github Badge](https://img.shields.io/badge/-karthikc-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ckarthik20)](https://github.com/ckarthik20)
