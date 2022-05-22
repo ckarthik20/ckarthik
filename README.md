@@ -35,7 +35,7 @@
 
 
 
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
+## :trophy: My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px>
 
 To see all the other badges are [here](https://www.credly.com/users/karthikc/badges)
 
