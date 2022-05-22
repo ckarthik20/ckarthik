@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: ckarthik20/badge-readme@master
+        uses: pemtajo/badge-readme@2.3.0
         with:
           GH_TOKEN: 123
           CREDLY_USER:  karthikc
