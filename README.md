@@ -13,9 +13,9 @@
 📥 DMs are open on LinkedIn and/or Email.
 
 [![Linkedin Badge](https://img.shields.io/badge/-karthikc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikc/)](https://www.linkedin.com/in/karthikc/)
-[![Gmail Badge](https://img.shields.io/badge/-karthikc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikc@gmail.com)](mailto:karthikc@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-karthikc-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ckarthik20)](https://github.com/ckarthik20)
-[![Medium Badge](https://img.shields.io/badge/-karthikc-green?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@karthikc)](https://medium.com/@karthikc)
+[![Gmail Badge](https://img.shields.io/badge/-karthikc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikc@gmail.com)](mailto:karthikc@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-karthikc-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@karthikc)](https://medium.com/@karthikc)
 
 
 
