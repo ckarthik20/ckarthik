@@ -1,5 +1,5 @@
 # knowme
-# I'm Karthik 👋🏼 &ndash; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33AEF7&lines=Network+Engineer;Cloud+Technology+Enthusiast;IOT+hobbyist)](https://git.io/typing-svg)
+# I'm Karthik 👋🏼 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33AEF7&lines=Network+Engineer;Cloud+Technology+Enthusiast;IOT+hobbyist)](https://git.io/typing-svg)
 
 ## 📜 Summary
  - 7+ years of experience in the networking domain, both in Service Provider and Enterprise network
