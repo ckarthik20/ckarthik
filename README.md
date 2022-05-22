@@ -46,6 +46,14 @@
     
 </p>
 
+## 👩‍💻 Language
+
+<p>
+ <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
+ <a href="#"><img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white"></a>
+ <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
+ <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white"></a>
+</p>
 
 ## 💡 Prototyping Platforms
 
