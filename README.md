@@ -1,6 +1,6 @@
 # knowme
 # I'm Karthik 👋🏼 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33AEF7&lines=Network+Engineer;Cloud+Technology+Enthusiast;IoT+hobbyist)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33AEF7&lines=Network+Engineer;Cloud+Technology+Enthusiast;IoT+hobbyist)](https://git.io/typing-svg)
 
 ## 📜 Summary
  - 7+ years of experience in the networking domain, both in Service Provider and Enterprise network
@@ -9,12 +9,13 @@
 ## 👋🏼 Let's Connect!
 📥 DMs are open on LinkedIn and/or Email.
 
-[![Linkedin Badge](https://img.shields.io/badge/-yeshwanthvshenoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeshwanthvshenoy/)](https://www.linkedin.com/in/yeshwanthvshenoy/)
-[![Gmail Badge](https://img.shields.io/badge/-yeshwanthvshenoy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeshwanthvshenoy@gmail.com)](mailto:yeshwanthvshenoy@gmail.com)
-[![StackOverflow Badge](https://img.shields.io/badge/-yeshwanthvshenoy-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)](https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)
-[![Github Badge](https://img.shields.io/badge/-yeshwanthvshenoy-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yeshwanthvshenoy)](https://github.com/yeshwanthvshenoy)
-[![Dev.to Badge](https://img.shields.io/badge/-yeshwanthvshenoy-navy?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/yeshwanthvshenoy)](https://dev.to/yeshwanthvshenoy)
-[![Medium Badge](https://img.shields.io/badge/-yeshwanthvshenoy-green?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@yeshwanthvshenoy)](https://medium.com/@yeshwanthvshenoy)
+[![Linkedin Badge](https://img.shields.io/badge/-karthikc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikc/)](https://www.linkedin.com/in/karthikc/)
+[![Gmail Badge](https://img.shields.io/badge/-karthikc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikc@gmail.com)](mailto:karthikc@gmail.com)
+[![StackOverflow Badge](https://img.shields.io/badge/-karthikc-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)](https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)
+[![Github Badge](https://img.shields.io/badge/-karthikc-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karthikc)](https://github.com/karthikc)
+[![Dev.to Badge](https://img.shields.io/badge/-karthikc-navy?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/karthikc)](https://dev.to/karthikc)
+[![Medium Badge](https://img.shields.io/badge/-karthikc-green?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@karthikc)](https://medium.com/@karthikc)
+
 
 ## 💻 AREAS OF EXPERTISE
 | Type                   | Skills                                                                                                       |
