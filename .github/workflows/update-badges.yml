@@ -12,4 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: ckarthik20/badge-readme@master
         with:
+          GH_TOKEN: 123
           CREDLY_USER:  karthikc
+
+
