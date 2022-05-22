@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Karthik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33AEF7&lines=Network+Engineer;Cloud+Technology+Enthusiast;IOT+hobbyist)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=33AEF7&lines=Network+Engineer;Cloud+Technology+Enthusiast;IOT+hobbyist)](https://git.io/typing-svg&center=true&width=500&height=50">
 </p>
 
 <br>
@@ -32,3 +32,10 @@
 | Network Management     | NETFLOW / IP-SLA |
 | Network Automation     | NETCONF / REST API / Python                                                                  |
 | Network Devices        | MX480 / MX960 / ASR 903 / ASR 920 / ASR 1000                                               |
+
+
+
+
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
