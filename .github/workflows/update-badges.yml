@@ -12,7 +12,6 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:
-          GH_TOKEN: 123
           CREDLY_USER:  karthikc
 
 
