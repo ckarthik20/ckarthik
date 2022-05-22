@@ -14,10 +14,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-karthikc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikc/)](https://www.linkedin.com/in/karthikc/)
 [![Gmail Badge](https://img.shields.io/badge/-karthikc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikc@gmail.com)](mailto:karthikc@gmail.com)
-[![StackOverflow Badge](https://img.shields.io/badge/-karthikc-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)](https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)
-[![Github Badge](https://img.shields.io/badge/-karthikc-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karthikc)](https://github.com/karthikc)
-[![Dev.to Badge](https://img.shields.io/badge/-karthikc-navy?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/karthikc)](https://dev.to/karthikc)
+[![Github Badge](https://img.shields.io/badge/-karthikc-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ckarthik20)](https://github.com/ckarthik20)
 [![Medium Badge](https://img.shields.io/badge/-karthikc-green?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@karthikc)](https://medium.com/@karthikc)
+
 
 
 ## 💻 AREAS OF EXPERTISE
