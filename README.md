@@ -19,7 +19,7 @@
 | Firewall               | Palo Alto                                                                                                    |
 | Network Management     | NETFLOW / IP-SLA |
 | Network Automation     | NETCONF / REST API / Python                                                                 |
-| Network Devices        | MX480 / MX960 / ASR 903 / ASR 920 / ASR 1000                                               |
+| Network Devices        | CSG1000 / MX480 / MX960 / ASR 903 / ASR 920 / ASR 1000                                               |
 
 ## ☁ Cloud
 <p>
@@ -64,7 +64,7 @@
 </p>
 
 
-## 🏆 Certifications <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px>
+## 🏆 Certifications 
 
 To see all the other badges are [here](https://www.credly.com/users/karthikc/badges)
 
