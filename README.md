@@ -19,7 +19,7 @@
 | Firewall               | Palo Alto                                                                                                    |
 | Network Management     | NETFLOW / IP-SLA |
 | Network Automation     | NETCONF / REST API / Python                                                                 |
-| Network Devices        | CSG1000 / MX480 / MX960 / ASR 903 / ASR 920 / ASR 1000                                               |
+| Network Devices        | Versa CSG Series /  MX480 / MX960 / ASR 903 / ASR 920 / ASR 1000                                               |
 
 ## ☁ Cloud
 <p>
