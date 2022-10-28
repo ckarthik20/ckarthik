@@ -88,8 +88,7 @@ To see all the other badges are [here](https://www.credly.com/users/karthikc/bad
 ## 👋🏼 Social Connect
 
 [<img alt="Github" src="https://img.shields.io/badge/ckarthik20-%2312100E.svg?&logo=Github&logoColor=white" />](https://github.com/ckarthik20) 
-[<img alt="Twitter" src="https://img.shields.io/badge/karthikk_c-%231DA1F2.svg?&logo=twitter&logoColor=white" />](https://twitter.com/karthikk_c)
 [<img alt="Medium" src="https://img.shields.io/badge/karthikk_c-%2312100E.svg?&logo=medium&logoColor=white" />](https://medium.com/@c.karthik)
-[<img alt="Medium" src="https://img.shields.io/badge/ckarthik-0078D4?&logo=microsoft-outlook&logoColor=white" />](mailto:ckarthik@outllok.in)
-[<img alt="Linkedin" src="https://img.shields.io/badge/ckarthik-0077B5?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ckarthik)
+[<img alt="Outlook" src="https://img.shields.io/badge/ckarthik-0078D4?&logo=microsoft-outlook&logoColor=white" />](mailto:ckarthik@live.com)
+
 
